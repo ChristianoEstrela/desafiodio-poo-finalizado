@@ -1,6 +1,7 @@
 package br.com.dio.desafio.dominio;
 import java.time.LocalDate;
 
+
 public class Main {
 
     public static void main(String[] args) {
@@ -14,7 +15,6 @@ public class Main {
         curso2.setTitulo("curso Java");
         curso2.setDescricao("descrição curso Java");
         curso2.setCargaHoraria(8);
-
 
         System.out.println(curso1);
         System.out.println(curso2);
