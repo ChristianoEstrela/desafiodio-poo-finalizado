@@ -1,5 +1,4 @@
 package br.com.dio.desafio.dominio;
-
 import java.time.LocalDate;
 
 public class Main {
@@ -26,10 +25,6 @@ public class Main {
         mentoria.setData(LocalDate.now());
 
         System.out.println(mentoria);
-
-
-
-
 
     }    
     
